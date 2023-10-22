@@ -1,0 +1,26 @@
+h1 {
+    color :rgb(67, 219, 21);
+    font-size: 60px;
+}
+
+h2 {
+    color: brown;
+    background-color: aqua;
+}
+
+body {
+    color: blueviolet;
+    background-color: black;
+    background-image: url(https://aduvan.ru/wp-content/uploads/2020/07/StockSnap_A0DYKMDRAL-1-1024x683.jpg);
+}
+
+h3 {
+    color: azure;
+    background-color: brown;
+    background-image: url(https://bayguzin.ru/assets/images/2014/04/kvadratiki.jpg);
+}
+ol {
+    background-image: url(https://html-templates.info/wp-content/uploads/140520040133.jpg);
+    color: black;
+    font-size: 80px;
+}
